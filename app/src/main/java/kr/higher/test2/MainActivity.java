@@ -16,6 +16,8 @@ public class MainActivity extends ActionBarActivity {
 
     private View btn_guess;
     private View btn_cancel;
+    
+    // 그냥 건들여 봤어요..
 
 
     private EditText inputText;
